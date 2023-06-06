@@ -17,3 +17,6 @@ You can dowload it from [here](https://github.com/opencv/opencv/blob/master/data
 
 
 The model architecture used for face mask detection is based on the ResNet50 convolutional neural network. The pretrained ResNet50 model is used as the base, with additional layers added on top for classification.
+
+Also there is an attached file "CNN" , that contains a face mask detection model, built from scratch.
+I uses Thirteen layer to make the model architecture. I used Convolution layers, Max pooling, Fully Connected layers and Flatten layers.
